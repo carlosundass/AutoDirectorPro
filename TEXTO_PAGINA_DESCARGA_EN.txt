@@ -1,0 +1,39 @@
+HOW TO INSTALL AUTODIRECTOR PRO
+===============================
+
+1. Download the installer (Instalador-AutoDirectorPro.exe) and open it.
+
+2. If Windows shows a blue window saying "Windows protected your PC":
+   this is normal. It appears for programs from independent creators that
+   don't have a digital signature yet, which is why Windows says "Unknown publisher".
+     - Click "More info".
+     - Click "Run anyway".
+   This only happens the first time.
+
+3. Follow the installer steps (you can choose English or Spanish at the start).
+   It does not need administrator permissions.
+
+4. Open AutoDirector Pro from the Start menu or the desktop.
+
+5. Language: top right of the program, choose "English" or "Español" at any
+   time. The program remembers your choice.
+
+
+IF YOUR BROWSER OR ANTIVIRUS BLOCKS IT
+- Chrome or Edge may say the file "isn't commonly downloaded". Click the three
+  dots on the download warning and choose "Keep" (or "Keep anyway").
+- Some antivirus programs wrongly flag programs like this one. Allow the file
+  or add it to your antivirus exceptions.
+
+
+STILL NOT WORKING?
+Send us a direct message on Instagram: @hablemos.entoncespro
+(https://www.instagram.com/hablemos.entoncespro/)
+Tell us what message you see; a screenshot helps a lot.
+If the program does open, click "Copy error report" (top right) and paste the
+text in your message: it tells us exactly what we need.
+
+
+UPDATES
+When a new version comes out, AutoDirector Pro will let you know when you open
+it, and you can install it with a single click.

@@ -1,0 +1,8 @@
+customtkinter
+pillow
+pydub
+numpy
+moviepy
+imageio-ffmpeg
+pycapcut==0.0.4
+audioop-lts; python_version >= "3.13"

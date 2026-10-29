@@ -1,0 +1,40 @@
+CÓMO INSTALAR AUTODIRECTOR PRO
+==============================
+
+1. Descarga el instalador (Instalador-AutoDirectorPro.exe) y ábrelo.
+
+2. Si Windows muestra una ventana azul que dice "Windows protegió su PC":
+   es normal. Aparece con los programas de creadores independientes que
+   todavía no tienen firma digital, y por eso Windows dice "Editor desconocido".
+     - Pulsa "Más información".
+     - Pulsa "Ejecutar de todas formas".
+   Solo pasa la primera vez.
+
+3. Sigue los pasos del instalador. No necesita permisos de administrador.
+
+4. Abre AutoDirector Pro desde el menú Inicio o desde el escritorio.
+
+5. Idioma: arriba a la derecha del programa puedes elegir "Español" o "English"
+   en cualquier momento. El programa recuerda tu elección. (El instalador también
+   te deja elegir el idioma al empezar.)
+
+
+SI TU NAVEGADOR O ANTIVIRUS LO BLOQUEA
+- Chrome o Edge pueden decir que el archivo "no se descarga habitualmente".
+  Pulsa los tres puntos del aviso de descarga y elige "Conservar"
+  (o "Conservar de todos modos").
+- Algunos antivirus marcan por error los programas de este tipo. Permite el
+  archivo o agrégalo a las excepciones de tu antivirus.
+
+
+¿SIGUE SIN FUNCIONAR?
+Escríbenos por mensaje directo en Instagram: @hablemos.entoncespro
+(https://www.instagram.com/hablemos.entoncespro/)
+Cuéntanos qué mensaje te aparece; una captura de pantalla ayuda mucho.
+Si el programa llega a abrirse, pulsa «Copiar informe de error» (arriba a la
+derecha) y pega el texto en el mensaje: nos dice justo lo que necesitamos.
+
+
+ACTUALIZACIONES
+Cuando salga una versión nueva, AutoDirector Pro te avisará al abrirlo, y
+podrás instalarla con un solo clic.
