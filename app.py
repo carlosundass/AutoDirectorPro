@@ -117,7 +117,7 @@ except ImportError:  # pragma: no cover
 LOGO_URL = "https://i.postimg.cc/G3Vzpf2S/Hablemos-entonces.png"
 
 # --- Versión, actualizaciones y donaciones (lo único que debes editar) ---------
-APP_VERSION = "1.0.0"      # Súbela cada vez que publiques una versión nueva
+APP_VERSION = "1.0.2"      # Súbela cada vez que publiques una versión nueva
 UPDATE_REPO = ""           # Repositorio de GitHub donde publicas las versiones: "usuario/repositorio"
                            # (vacío = el programa no busca actualizaciones)
 DONATE_URL = "https://www.paypal.com/ncp/payment/NMGRGDN7KXBD4"   # Botón de PayPal. Enlace de donaciones (Ko-fi, PayPal.me, Mercado Pago, Cafecito...)
