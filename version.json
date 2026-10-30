@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
-  "notes": "Editor de cortes con imágenes, prueba de 30 s dentro del programa y avisos de actualización activados.",
-  "notes_en": "Visual cut editor, 30-second test inside the app, and update notifications enabled.",
-  "sha256": "40f50ce7d0c68a3c82142794084aed41d277fc7d7c9e8d3c4a305a0eaed691c2",
+  "version": "1.0.4",
+  "notes": "Versión de prueba del sistema de actualizaciones.",
+  "notes_en": "Test version for the update system.",
+  "sha256": "c2b310f821b6844fcb274c481fe3eb118550f04b5456a18cf5c241a78590335a",
   "installer_url": "https://hepro.cl/autodirector/Instalador-AutoDirectorPro.exe",
   "page_url": "https://hepro.cl/autodirector"
 }
