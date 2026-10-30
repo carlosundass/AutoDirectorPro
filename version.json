@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "notes": "Primera versión pública de AutoDirector Pro.",
   "notes_en": "First public release of AutoDirector Pro.",
-  "sha256": "82a9cec944531209bba5aac57c32423b520996d84c0f5feebd82dea041fc80b4",
+  "sha256": "a38b78ea890a4c2c0ee2f2567a59303c7303f780c42a2bb5d6fb620274bd782e",
   "installer_url": "https://hepro.cl/autodirector/Instalador-AutoDirectorPro.exe",
   "page_url": "https://hepro.cl/autodirector"
 }
