@@ -1,8 +1,8 @@
 {
-  "version": "1.0.4",
-  "notes": "Versión de prueba del sistema de actualizaciones.",
-  "notes_en": "Test version for the update system.",
-  "sha256": "c2b310f821b6844fcb274c481fe3eb118550f04b5456a18cf5c241a78590335a",
+  "version": "1.0.5",
+  "notes": "Corrige un error al actualizar: el programa se abre bien después de instalar la nueva versión.",
+  "notes_en": "Fixes an error when updating: the app now opens correctly after installing the new version.",
+  "sha256": "b7683a7d2598de08b055897fb0c30741c5d3f6d5a9b34f9aa9615f35e9be8e0f",
   "installer_url": "https://hepro.cl/autodirector/Instalador-AutoDirectorPro.exe",
   "page_url": "https://hepro.cl/autodirector"
 }
